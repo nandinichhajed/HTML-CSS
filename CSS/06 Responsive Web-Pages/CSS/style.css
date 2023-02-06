@@ -62,3 +62,29 @@ button{
 .lco:hover{
     box-shadow: 0px 0px 40px 40px #1f1f1f inset;
 }
+
+@media screen and (max-width:800px) {
+    body{
+        background: #b92727;
+    }
+    h1{
+        font-size: 50px;
+    }
+    span{
+        font-size: 80px;
+    }
+    
+}
+
+@media screen and (max-width:600px) and (min-width:400px) {
+    body{
+        background: #ce5e5e;
+    }
+    h1{
+        font-size: 50px;
+    }
+    span{
+        font-size: 80px;
+    }
+    
+}
