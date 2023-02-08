@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    border: 1px solid black;
+    width: 700px;
+    justify-content: center;
+}
+
+.one {
+    order: -1;
+}
+
+.two {
+    order: -2;
+}
+
+.container div:nth-child(6) {
+    order: -3;
+}
