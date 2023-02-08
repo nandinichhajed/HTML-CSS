@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(90deg, #FD297A 0%, #9424F0 100%);
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.bg{
+    height: 100vh;
+    width: 100%;
+}
+
+.form > *{
+    padding: 5px;
+    border: 0;
+    background: #fff;
+    line-height: 30pxpx;
+    font-size: 15PX;
+    margin: 5px 0px 5px 5px;
+    /* top right bottom left */
+}
+
+
+.form > button{
+    background-color: #9424F0;
+    /* padding: 4px; */
+    border: #9424F0 2px solid;
+    border-radius: 5px;
+    color: #fff;
+    margin: 0px;
+}
+
+.bg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
