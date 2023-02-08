@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+    height: 500px;
+    align-items: flex-start;
+    align-items: flex-end;
+    align-items: center;
+    align-items: baseline;
+}
+
+h1{
+    color: blacks;
+    font-size: 80px;
+}
