@@ -46,27 +46,28 @@ nav .nav-items{
 .nav-button {
     background-color: #e03b8b;
     border: none;
-    padding: 5px 40px;
+    padding: 10px 40px;
     border-radius: 20px;
     cursor: pointer;
   }
 
-  .container {
+.container {
     display: flex;
     flex-direction: row;
     flex: 1;
     height: 80vh;
   }
   
-  .col {
+.col {
     display: flex;
     flex: 0.5;
     min-height: 100%;
   }
   
-  .col-2 {
+.col-2 {
     overflow: hidden;
   }
+
   .phone-img {
     position: absolute;
     bottom: 0;
@@ -74,17 +75,22 @@ nav .nav-items{
     height: 80%;
   }
   
-    .col-1 {
+.col-1 {
     flex-direction: column; 
     justify-content: center;
     align-items: flex-start;
     color: #fff; 
   } 
-  /* .col-1 p {
+
+  .col-1 p {
     font-size: 25px;
   }
   
-  .col-1 h1 {
+.col-1 h1 {
     font-size: 75px;
     margin: 20px 0;
-  }  */
+  } 
+
+.google-play-badge{
+  height: 90px;
+}
