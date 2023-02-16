@@ -15,17 +15,17 @@ VScode Plugins: [Emmet](https://emmet.io/), [LiveReload](https://chrome.google.c
 OS Dosent matter you can go with your favorite one
 
 ## The design tools that I used here are:
-UIcolour picker
+Color Palates: [UIColorPicker](https://uicolorpicker.com/)
 
-Canva, figma, XD for layout of designs
+UI Designs: [Canva](https://www.canva.com/), [Figma](https://www.figma.com/), [Adobe XD](https://helpx.adobe.com/in/xd/get-started.html)
 
-Paxels.com one more To get copyright-free images
+Images: [Pexels](https://www.pexels.com/), [PlaceIMG](https://placeimg.com/)  copyright-free images
 
-google fonts
+Fonts: [Google Fonts](https://fonts.google.com/)
 
-Fontawsm for icons
+Icons: [Font Awesome](https://fontawesome.com/)
 
-Clippy - for shaping the image
+Clippy: [Clippy](https://bennettfeely.com/clippy/) for shaping the image
 
 ## The official documents and sites
 MDN css.tricks
