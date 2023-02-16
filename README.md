@@ -28,7 +28,8 @@ Icons: [Font Awesome](https://fontawesome.com/)
 Clippy: [Clippy](https://bennettfeely.com/clippy/) for shaping the image
 
 ## The official documents and sites
-MDN css.tricks
+[MDN Docs](https://developer.mozilla.org/)
+[CSS Tricks](https://css-tricks.com/)
 
 ## Some Landing pages I created while learning are:
 
