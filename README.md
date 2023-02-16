@@ -12,20 +12,20 @@ Editor: [VScode](https://code.visualstudio.com/)
 
 VScode Plugins: [Emmet](https://emmet.io/), [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en), [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), [Prettier](https://prettier.io/)
 
-OS Dosent matter you can go with your favorite one
+> OS dose not matter you can go with your favorite one
 
 ## The design tools that I used here are:
 Color Palates: [UIColorPicker](https://uicolorpicker.com/)
 
 UI Designs: [Canva](https://www.canva.com/), [Figma](https://www.figma.com/), [Adobe XD](https://helpx.adobe.com/in/xd/get-started.html)
 
-Images: [Pexels](https://www.pexels.com/), [PlaceIMG](https://placeimg.com/)  copyright-free images
+Images: [Pexels](https://www.pexels.com/), [PlaceIMG](https://placeimg.com/)  
 
 Fonts: [Google Fonts](https://fonts.google.com/)
 
 Icons: [Font Awesome](https://fontawesome.com/)
 
-Clippy: [Clippy](https://bennettfeely.com/clippy/) for shaping the image
+Image Editing: [Clippy](https://bennettfeely.com/clippy/) 
 
 ## The official documents and sites
 [MDN Docs](https://developer.mozilla.org/)
