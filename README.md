@@ -28,7 +28,8 @@ Icons: [Font Awesome](https://fontawesome.com/)
 Image Editing: [Clippy](https://bennettfeely.com/clippy/) 
 
 ## The official documents and sites
-[MDN Docs](https://developer.mozilla.org/)
+[MDN Docs](https://developer.mozilla.org/) 
+and
 [CSS Tricks](https://css-tricks.com/)
 
 ## Some Landing pages I created while learning are:
