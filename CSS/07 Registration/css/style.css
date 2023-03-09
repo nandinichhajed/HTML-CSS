@@ -93,16 +93,29 @@ input {
   }
 
   @media screen and (max-width: 600px) {
-    .form-section {
-      padding: 20px 30px;
-    }
-    .row {
-      flex-direction: column;
-    }
     .mokup {
       display: none;
     }
+
     main {
       grid-template-columns: 1fr;
     }
+
+    .form-section {
+      padding: 20px 30px;
+      margin: auto;
+      align-items: center;
+    }
+
+    .row {
+      flex-direction: column;
+      margin: 0;
+    }
+
+    input{
+      margin-left: 0;
+      padding: 10px 0;
+      text-align: center;
+    }
+    
   }
