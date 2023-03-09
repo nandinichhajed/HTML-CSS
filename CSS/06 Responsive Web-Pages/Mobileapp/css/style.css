@@ -107,7 +107,7 @@ nav .nav-items{
   nav .nav-menu-icon {
     display: block;
     margin: auto;
-
+    margin-right: 30px;
   }
   nav .nav-menu-icon i {
     color: #fff;
@@ -115,7 +115,7 @@ nav .nav-items{
   }
 }
 
-@media screen and (max-width: 850px){
+@media screen and (max-width: 900px){
   .phone{
     display: none;
   }
